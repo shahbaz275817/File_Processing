@@ -35,4 +35,6 @@ void main()
         sn++;
     }
     fclose(fp);
+    
+    //ok
 }
